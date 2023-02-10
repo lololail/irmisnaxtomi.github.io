@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(60, 3, 74);
+    color: rgb(255, 255, 255);
+}
+
+img {
+    width: 400px;
+}
+.picture1 {
+    float: right;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+.picture2 {
+    float: right;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+.picture3 {
+    float: left;
+    margin-left:  10px;
+    margin-bottom: 100px;
+}
